@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_color">#8C712F</color>
+    <color name="green">#29AF36</color>
+
+    <color name="layout_background">#222830</color>
+    <color name="card_background">#28425C</color>
+    <color name="text_hint">#767BBE</color>
+    <color name="App_name">#C3C4D1</color>
+
+    <color name="under_weight">#8F5B0D</color>
+    <color name="normal">#5AC15E</color>
+    <color name="over_weight">#85495E</color>
+    <color name="obese">#75231D</color>
+</resources>
